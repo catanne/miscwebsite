@@ -4,5 +4,5 @@ miscwebsite
 
 TESTING TESTING - I'M ON THE TRAIN
 
-<img src='placekitten.com/500/500' />
+<img src='https://placekitten.com/500/500' />
 
