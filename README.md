@@ -1,1 +1,8 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+
+# miscwebsite
+
+miscwebsite
+
+TESTING TESTING - I'M ON THE TRAIN
+
+<img src='https://placekitten.com/500/500' />
